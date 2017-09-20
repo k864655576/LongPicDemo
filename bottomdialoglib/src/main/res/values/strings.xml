@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottomDialogLib</string>
+    <string name="taking_pictures">拍照片</string>
+    <string name="local_photo_album">本地相册</string>
+    <string name="short_video">短视频</string>
+</resources>
